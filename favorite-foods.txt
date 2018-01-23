@@ -2,6 +2,10 @@ my favorite foods are:
 
 steak
 icecream
+<<<<<<< HEAD
 tacos
+Cheesecake!
 
+=======
+>>>>>>> Added a food
 
